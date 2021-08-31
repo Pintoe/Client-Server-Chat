@@ -11,3 +11,5 @@ java "executablename" "hostIP" "portNumber"
 
 Server
 java "executablename" "portNumber"
+
+use "localhost" for the hostIP if both computers are on the same wifi
