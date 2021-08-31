@@ -6,7 +6,7 @@ HOW TO USE
 
 run the program in the commmand line like so:
 Client:
-java <executablename> <hostIP> <portNumber>
+java "executablename" "hostIP" "portNumber"
 
 Server
-java <executablename> <portNumber>
+java "executablename" "portNumber"
